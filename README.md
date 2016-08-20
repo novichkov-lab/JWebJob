@@ -1,7 +1,5 @@
 # JWebJob
 
-####A 3-step web project for accepting input, processing it, and displaying a result.
-
 JWebJob is a Web Project written in Java to be used as an interface between a computational process and its user.
 
 JWebJob consists of three client-side web pages, one to accept input, one to display progress while the input is processed, and one to display the result of the process.
